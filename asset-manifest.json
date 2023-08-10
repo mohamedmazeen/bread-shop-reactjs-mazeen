@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/bread-shop-reactjs-mazeen/static/css/main.3c49d745.css",
+    "main.js": "/bread-shop-reactjs-mazeen/static/js/main.12397ee1.js",
+    "static/js/787.4b922617.chunk.js": "/bread-shop-reactjs-mazeen/static/js/787.4b922617.chunk.js",
+    "static/media/sourdough.png": "/bread-shop-reactjs-mazeen/static/media/sourdough.5d53e4e47b3156773fff.png",
+    "static/media/healthy-snacks.png": "/bread-shop-reactjs-mazeen/static/media/healthy-snacks.d901fb2001267fb6ee53.png",
+    "static/media/hot-cross-buns.png": "/bread-shop-reactjs-mazeen/static/media/hot-cross-buns.16b4dea867b209dc5fbc.png",
+    "static/media/pear-desserts.png": "/bread-shop-reactjs-mazeen/static/media/pear-desserts.f33fb702c4b06bb82212.png",
+    "static/media/pie.png": "/bread-shop-reactjs-mazeen/static/media/pie.2a1b9bec38ec2b439127.png",
+    "static/media/bread.png": "/bread-shop-reactjs-mazeen/static/media/bread.ca519257b3bf177252b8.png",
+    "static/media/book.png": "/bread-shop-reactjs-mazeen/static/media/book.e6aebfa6b06f6b6af315.png",
+    "static/media/coffee.png": "/bread-shop-reactjs-mazeen/static/media/coffee.c8927747274cec5040a8.png",
+    "static/media/waffle.png": "/bread-shop-reactjs-mazeen/static/media/waffle.a71b65b4eb50616bdcbb.png",
+    "static/media/logo.svg": "/bread-shop-reactjs-mazeen/static/media/logo.1f08507742692de4d9430d774baced3f.svg",
+    "index.html": "/bread-shop-reactjs-mazeen/index.html",
+    "main.3c49d745.css.map": "/bread-shop-reactjs-mazeen/static/css/main.3c49d745.css.map",
+    "main.12397ee1.js.map": "/bread-shop-reactjs-mazeen/static/js/main.12397ee1.js.map",
+    "787.4b922617.chunk.js.map": "/bread-shop-reactjs-mazeen/static/js/787.4b922617.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3c49d745.css",
+    "static/js/main.12397ee1.js"
+  ]
+}
