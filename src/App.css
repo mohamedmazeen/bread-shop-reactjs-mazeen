@@ -1,38 +1,75 @@
-.App {
-  text-align: center;
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #fff;
+  font-family: sans-serif;
+  font-size: 17px;
+  color: #232323
 }
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+a {
+  text-decoration: none;
+  color: #000;
 }
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+h1 {
+  font-family: 'Libre Baskerville', serif;
+  font-size: 60px;
 }
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+h2 {
+  font-family: 'Libre Baskerville', serif;
+  font-size: 40px;
+}
+h3 {
+  font-family: 'Libre Baskerville', serif;
+  font-size: 25px;
+}
+h4 {
+  font-family: 'Libre Baskerville', serif;
+  font-size: 20px;
+}
+p {
+  color: #6c6c6c;
+  font-size: 17px;
+}
+.wrapper {
+  padding: 0 140px;
+}
+.row {
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
+}
+.col-1 {
+  flex: 1;
+}
+.v-center-h-right {
+  display: inline-flex;
+  justify-content: flex-end;
   align-items: center;
+}
+.v-center-h-left {
+  display: inline-flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+.vh-center {
+  display: inline-flex;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  align-items: center;
 }
-
-.App-link {
-  color: #61dafb;
+.primary-btn {
+  padding: 16px 28px;
+  background-color: #000;
+  color: #fff;
+  font-weight: bold;
+  font-size: 17px;
+  border: none;
+  cursor: pointer;
 }
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.ptb-30 {
+  padding: 30px 0;
+}
+.pt-25 {
+  padding-top: 25px;
+}
+.pt-40 {
+  padding-top: 40px;
 }

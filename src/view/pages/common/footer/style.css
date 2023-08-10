@@ -1,0 +1,41 @@
+.footer {
+    background-color: #e8e3e1;
+    padding: 95px 0;
+}
+.footer-title {
+    text-align: center;
+    margin: 0 0 40px 0;
+}
+.field-label {
+    display: block;
+    font-size: 20px;
+    padding-bottom: 5px;
+}
+.field-set {
+    width: 395px;
+    margin: 0 auto;
+    padding-bottom: 20px;
+}
+.text-field {
+    border: none;
+    outline: none;
+    background-color: #f1f1f1;
+    width: 395px;
+    padding: 15px 0 15px 18px;
+    box-sizing: border-box;
+}
+.text-field::placeholder {
+    color: #C1C1C1;
+    font-size: 15px;
+    box-sizing: border-box;
+}
+.fa-brands {
+    font-size: 22px;
+}
+.social-list {
+    list-style: none;
+}
+.social-list li {
+    display: inline-block;
+    padding: 0 12px;
+}

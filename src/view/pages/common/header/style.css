@@ -1,0 +1,23 @@
+.header {
+    padding: 40px 0;
+    position: sticky;
+    top: 0;
+    background-color: #fff;
+  }
+.fa-solid {
+    padding-right: 10px; 
+    vertical-align: middle;
+    font-size: 30px;
+ }
+.menu-list {
+    list-style: none;
+    margin: 0;
+}
+.menu-list li {
+    display: inline-block;
+    padding-left: 20px;
+}
+.menu-list  li a:hover {
+    border-bottom: 1px solid #000;
+    padding-bottom: 3px;
+}
